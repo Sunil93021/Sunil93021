@@ -16,7 +16,6 @@
 📫 How to reach me:
 - LinkedIn: [@dharmichand-sunil-kumar](https://www.linkedin.com/in/dharmichand-sunil-kumar-56200318b/)
 - Email: ksunil93021@gmail.com
-- contact: 9700220080
 
 ⚡ Fun Fact:
 > I’ve built games, websites, and mobile apps all before graduating college!
