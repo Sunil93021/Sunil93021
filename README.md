@@ -24,7 +24,17 @@
 
 ### 📊 GitHub Stats
 
-![Sunil's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sunil93021&show_icons=true&theme=tokyonight)
+<div align="center">
+  
+ ![Sunil's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sunil93021&show_icons=true&theme=tokyonight)
+</div>
+ <br>
+ <div align = "center">
+   
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sunil93021&layout=compact&langs_count=10&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+ </div>
+ 
+
 
 ### 🎮 Featured Projects
 
