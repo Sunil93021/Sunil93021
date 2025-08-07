@@ -41,7 +41,7 @@
 - 🕹️ [Kitchen Chaos Game](https://sunil93021.itch.io/kitchen-chaos)
 - 🚀 [Star Fighters](https://sunil93021.itch.io/startfighters)
 - 📱 [Quiz App with Firebase](https://github.com/Sunil93021/Quiz-App-with-Firebase-)
-- 🌐 [EditKaro.in Portfolio](https://web-project-xnt2.onrender.com/)
+- 🌐 [EditKaro.in ](https://web-project-xnt2.onrender.com/)
 
 ---
 
